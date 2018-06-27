@@ -1,0 +1,8 @@
+matplotlib==2.1.1
+tensorflow_gpu==1.6.0
+seaborn==0.8.1
+sacred==0.7.2
+pandas==0.21.0
+numpy==1.14.3
+tqdm==4.19.4
+scikit_learn==0.19.1
