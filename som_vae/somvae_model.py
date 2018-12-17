@@ -381,7 +381,7 @@ class SOMVAE:
     def loss(self):
         """Aggregates the loss terms into the total loss."""
         loss = (self.loss_reconstruction + self.alpha*self.loss_commit + self.beta*self.loss_som
-                + self.tau*self.loss_z_prob)
+                + self.gamma*self.loss_probabilities + self.tau*self.loss_z_prob)
         tf.summary.scalar("loss", loss)
         return loss
 
