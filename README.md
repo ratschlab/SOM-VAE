@@ -1,6 +1,6 @@
 # SOM-VAE model
 
-This repository contains a TensorFlow implementation of the self-organizing map variational autoencoder as described in the paper [Deep Self-Organization: Interpretable Discrete Representation Learning on Time Series](https://arxiv.org/abs/1806.02199).
+This repository contains a TensorFlow implementation of the self-organizing map variational autoencoder as described in the paper [SOM-VAE: Interpretable Discrete Representation Learning on Time Series](https://arxiv.org/abs/1806.02199).
 
 ## Getting Started
 
