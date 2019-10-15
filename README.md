@@ -79,6 +79,8 @@ python somvae_train.py with mnist=False
 
 Moreover, you have to define the correct dimensionality in the respective `input_length` and `input_channels` parameters of the model, provide a suitable data generator in [somvae_train.py](som_vae/somvae_train.py) and potentially change the dimensionality of the layers in [somvae_model.py](som_vae/somvae_model.py).
 
+To reproduce the experiments on eICU data, please use the preprocessing pipeline from this repository: https://github.com/ratschlab/variational-psom
+
 ## Authors
 
 * **Vincent Fortuin** - [ETH website](https://bmi.inf.ethz.ch/people/person/vincent-fortuin/)
