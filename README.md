@@ -2,6 +2,8 @@
 
 This repository contains a TensorFlow implementation of the self-organizing map variational autoencoder as described in the paper [SOM-VAE: Interpretable Discrete Representation Learning on Time Series](https://arxiv.org/abs/1806.02199).
 
+If you like the SOM-VAE, you should also check out the DPSOM ([paper](https://arxiv.org/abs/1910.01590), [code](https://github.com/ratschlab/dpsom)), which yields better performance on many tasks.
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
