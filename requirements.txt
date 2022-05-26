@@ -1,5 +1,5 @@
 matplotlib==2.1.1
-tensorflow_gpu==1.6.0
+tensorflow_gpu==2.7.2
 seaborn==0.8.1
 sacred==0.7.2
 pandas==0.21.0
